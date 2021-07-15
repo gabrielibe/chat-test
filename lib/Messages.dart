@@ -81,7 +81,7 @@ class _MessagesState extends State<Messages> {
                                 fontSize: 15,
                               )),
                                SizedBox(
-                                 height: 3,
+                               //  height: 3,
                                ),
                                Container(
                                    width:MediaQuery.of(context).size.width*0.3,
